@@ -1,4 +1,43 @@
 body {
     background-color: #000;
     color: #AAA;
+    margin: 0px;
+    padding: 0px;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+}
+
+#intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+#bio {
+    width: 90vw;
+    padding: 1em;
+}
+
+#skills {
+    
+}
+
+li {
+    list-style-type: none;
+    padding: 3em 0px;
+    text-align: center;
+}
+
+#projects {
+    
+}
+
+.projects-images {
+    display: block;
+    margin: auto;
+    width: 80vw;
 }
