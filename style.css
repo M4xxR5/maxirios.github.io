@@ -1,13 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
 
 body {
-    background-color: #000;
-    color: #AAA;
+    /*background-color: #000;
+    color: #AAA;*/
     margin: 0px;
     padding: 0px;
-    font-family: Manrope;
+    font-family: sans-serif;
 }
 
+h1 {
+    font-family: Manrope;
+}
 section {
     width: 100vw;
     height: 100vh;
