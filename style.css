@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+
 body {
-    background-color: #000;
-    color: #AAA;
+    /*background-color: #000;
+    color: #AAA;*/
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 
+h1 {
+    font-family: Manrope;
+}
 section {
     width: 100vw;
     height: 100vh;
@@ -17,14 +23,19 @@ section {
     flex-flow: column wrap;
 }
 
+h1 {
+    font-size: 5em;
+}
+
 #bio {
     width: 90vw;
     padding: 1em;
+    border: 1px solid #AAA;
 }
 
-#skills {
+/*#skills {
     
-}
+}*/
 
 li {
     list-style-type: none;
@@ -32,9 +43,9 @@ li {
     text-align: center;
 }
 
-#projects {
+/*#projects {
     
-}
+}*/
 
 .projects-images {
     display: block;
