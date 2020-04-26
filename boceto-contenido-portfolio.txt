@@ -1,7 +1,7 @@
 Maximiliano Andrés Ríos
 Web Designer
 
-I am an autodidact web designer that solve problems with creativity and i don't settle when i know there's something that can be better. Also i learn fast so i can easily adjust my workstyle to different environments and situations.
+I am an autodidact web designer that solve problems with creativity and i don't settle when i know there's something that can be better. Also i learn fast so i can easily adjust my workstyle to different environments and situations. I aspire towards a carrer that let me put all my efforts crafting creative websites.
 
 Get in touch
 
@@ -9,14 +9,13 @@ Core Skills:
     Creative
     Ambicious
     Motivated
-    Objetive (eeeeexito)
+    Objective (eeeeexito)
     Flexible
 
 WebDesign Skills
-
-HTML: skillful
-CSS: skillful
-JS: Beginner
+    HTML: skillful
+    CSS: skillful
+    JS: Beginner
 
 (note: don't use adjectives)
 
@@ -32,3 +31,13 @@ Projects
 FFC Projects
 codewars
 sister's webpage (website?)
+
+Hi there! I'm 
+Maxi Rios.
+I 
+
+I'm an autodidact web designer based in Argentina that settle for nothing when I know  there's something that can be better. My goal is to be a Web Developer but in the meantime I strive to make creative, pixel-perfect webpages.
+
+With strong foundations in art, I make eye-candy webpages 
+
+I'm looking for a job right now. If you are interested, we could [keep in touch]
